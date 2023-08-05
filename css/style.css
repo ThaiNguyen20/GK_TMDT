@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=REM:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=REM:ital,wght@1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'REM', sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('https://i.pinimg.com/564x/2b/4e/f1/2b4ef1b6ad2fdb0d85f3ffefb1e9a800.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}   
+
+#mc_embed_signup{
+    background:#fff; 
+    false;
+    clear:left; 
+    font-size:14px; 
+    font-family: 'REM', sans-serif;
+    width: 600px;
+}
+
+h2{
+    text-align:center;
+    font-size: 16;
+    font-family: 'Pacifico', cursive;
+}
+
+#indicates-required{
+
+}
